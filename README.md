@@ -9,9 +9,7 @@ Currently, two official plugins are available:
 # React-Data-fetch
 
 
-Here is a `README.md` file for your React application:
 
-```markdown
 # React Application
 
 This project is a simple React application that fetches and displays data from an external API. It includes a Navbar, Footer, and Card components. The data is fetched from the `jsonplaceholder` API and displayed in a card format.
